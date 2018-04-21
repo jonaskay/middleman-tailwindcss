@@ -1,0 +1,19 @@
+{
+  "name": "middleman-tailwindcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.1",
+    "postcss-cssnext": "^3.1.0",
+    "postcss-import": "^11.1.0",
+    "tailwindcss": "^0.5.2"
+  }
+}
