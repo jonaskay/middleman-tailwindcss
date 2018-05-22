@@ -2,13 +2,13 @@
 
 ## About
 
-This is a project template for the [Middleman Static Site Generator](https://middlemanapp.com/) with [Tailwind CSS](https://tailwindcss.com/) and [Gulp](https://gulpjs.com/). It is based on the [
+This is a project template for the [Middleman Static Site Generator](https://middlemanapp.com/) with [Tailwind CSS](https://tailwindcss.com/) and [gulp](https://gulpjs.com/). It is based on the [
 Default Middleman Project Template](https://github.com/middleman/middleman-templates-default).
 
 ## Included Libraries
 
 * [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework
-* [Gulp](https://gulpjs.com/) - A JavaScript toolkit
+* [gulp](https://gulpjs.com/) - A JavaScript toolkit
 * [PostCSS](http://postcss.org/) - A tool for automating CSS operations
 * [PostCSS-cssnext](http://cssnext.io/) - A PostCSS plugin to use tomorrow's CSS syntax, today
 * [PostCSS-import](https://github.com/postcss/postcss-import) - A PostCSS plugin to inline @import rules content
@@ -21,7 +21,7 @@ Default Middleman Project Template](https://github.com/middleman/middleman-templ
 * [Ruby](https://www.ruby-lang.org/en/)
 * [Bundler](http://bundler.io/)
 * [Node.js](https://nodejs.org/en/)
-* [Gulp CLI](https://gulpjs.com/)
+* [gulp-cli](https://gulpjs.com/)
 
 ### Start a New Project
 
