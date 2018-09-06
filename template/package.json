@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.0",
     "gulp-postcss": "^7.0.1",
     "postcss-cssnext": "^3.1.0",
     "postcss-import": "^11.1.0",
