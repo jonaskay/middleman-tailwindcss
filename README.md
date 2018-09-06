@@ -1,5 +1,5 @@
 # Middleman + Tailwind CSS
-
+[![Build Status](https://travis-ci.com/jonaskay/middleman-tailwindcss.svg?branch=master)](https://travis-ci.com/jonaskay/middleman-tailwindcss)
 ## About
 
 This is a project template for the [Middleman Static Site Generator](https://middlemanapp.com/) with [Tailwind CSS](https://tailwindcss.com/) and [gulp](https://gulpjs.com/). It is based on the [
