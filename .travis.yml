@@ -1,6 +1,5 @@
 language: ruby
 before_script:
-  - gem install bundler
   - gem install middleman
   - middleman init mysite -T jonaskay/middleman-tailwindcss
   - cd mysite
