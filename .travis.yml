@@ -3,5 +3,4 @@ before_script:
   - gem install middleman
   - middleman init mysite -T jonaskay/middleman-tailwindcss
   - cd mysite
-  - npm install
 script: middleman build
