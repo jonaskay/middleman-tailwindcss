@@ -9,5 +9,9 @@ module Middleman
     def copy_default_files
       directory 'template', '.', exclude_pattern: /\.DS_Store$/
     end
+
+    def setup
+      run 'npm install'
+    end
   end
 end

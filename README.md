@@ -32,16 +32,6 @@ Change into the project root:
 
 `$ cd mysite`
 
-Install dependencies:
-
-```
-# Using npm
-$ npm install
-
-# Using Yarn
-$ yarn install
-```
-
 Add the project to version control (recommended, not required):
 
 ```
