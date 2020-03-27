@@ -53,5 +53,4 @@ configure :build do
     latency: 1
 
   ignore 'stylesheets/components/*.css'
-  ignore 'stylesheets/tailwindcss/*.css'
 end

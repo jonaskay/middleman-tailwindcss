@@ -1,6 +1,5 @@
 var gulp = require("gulp");
 var postcss = require("gulp-postcss");
-var tailwindcss = require("tailwindcss");
 
 gulp.task("css", function() {
   return gulp
@@ -8,7 +7,7 @@ gulp.task("css", function() {
     .pipe(
       postcss([
         require("postcss-import"),
-        tailwindcss("./tailwind.js"),
+        require("tailwindcss"),
         require("autoprefixer")
       ])
     )
