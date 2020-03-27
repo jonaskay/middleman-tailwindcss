@@ -11,6 +11,7 @@ Default Middleman Project Template](https://github.com/middleman/middleman-templ
 * [gulp](https://gulpjs.com/) - A JavaScript toolkit
 * [PostCSS](http://postcss.org/) - A tool for automating CSS operations
 * [PostCSS-import](https://github.com/postcss/postcss-import) - A PostCSS plugin to inline @import rules content
+* [Autoprefixer](https://github.com/postcss/autoprefixer) - A PostCSS plugin to add vendor prefixes to CSS rules
 
 ## Getting Started
 

@@ -5,7 +5,13 @@ var tailwindcss = require("tailwindcss");
 gulp.task("css", function() {
   return gulp
     .src("source/stylesheets/site.css")
-    .pipe(postcss([require("postcss-import"), tailwindcss("./tailwind.js")]))
+    .pipe(
+      postcss([
+        require("postcss-import"),
+        tailwindcss("./tailwind.js"),
+        require("autoprefixer")
+      ])
+    )
     .pipe(gulp.dest("./.tmp/stylesheets"));
 });
 

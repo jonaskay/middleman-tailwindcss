@@ -9,3 +9,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Run gulp using npm
 ### Removed
 - Remove postcss-cssnext
+### Added
+- Add autoprefixer
