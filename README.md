@@ -21,7 +21,6 @@ Default Middleman Project Template](https://github.com/middleman/middleman-templ
 * [Ruby](https://www.ruby-lang.org/en/)
 * [Bundler](http://bundler.io/)
 * [Node.js](https://nodejs.org/en/)
-* [gulp-cli](https://gulpjs.com/)
 
 ### Start a New Project
 

@@ -4,5 +4,4 @@ before_script:
   - middleman init mysite -T jonaskay/middleman-tailwindcss
   - cd mysite
   - npm install
-  - npm install gulp-cli -g
 script: middleman build

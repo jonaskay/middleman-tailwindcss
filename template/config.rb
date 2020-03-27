@@ -33,13 +33,13 @@ page '/*.txt', layout: false
 # Development-specific configuration
 # https://middlemanapp.com/advanced/configuration/#environment-specific-settings
 
-configure :development do 
+configure :development do
   activate :external_pipeline,
     name: :gulp,
-    command: 'gulp',
+    command: 'npm start',
     source: '.tmp',
     latency: 1
-end 
+end
 
 
 # Build-specific configuration
@@ -48,7 +48,7 @@ end
 configure :build do
   activate :external_pipeline,
     name: :gulp,
-    command: 'gulp build',
+    command: 'npm run build',
     source: '.tmp',
     latency: 1
 
