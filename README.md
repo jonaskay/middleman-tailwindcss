@@ -10,7 +10,6 @@ Default Middleman Project Template](https://github.com/middleman/middleman-templ
 * [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework
 * [gulp](https://gulpjs.com/) - A JavaScript toolkit
 * [PostCSS](http://postcss.org/) - A tool for automating CSS operations
-* [PostCSS-cssnext](http://cssnext.io/) - A PostCSS plugin to use tomorrow's CSS syntax, today
 * [PostCSS-import](https://github.com/postcss/postcss-import) - A PostCSS plugin to inline @import rules content
 
 ## Getting Started
